@@ -1,0 +1,30 @@
+_repo: The-Life-of-John-Marshall-Volume-4-of-4_40533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beveridge, Albert J. (Albert Jeremiah)
+    alias: Beveridge, Albert Jeremiah
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '7144'
+    url: http://www.gutenberg.org/2009/agents/7144
+description: ''
+gutenberg_issued: '2012-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marshall, John, 1755-1835'
+- !lcc 'E300'
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcsh 'United States. Supreme Court -- Biography'
+- !lcsh 'Judges -- United States -- Biography'
+title: 'The Life of John Marshall, Volume 4: The building of the nation, 1815-1835'
+url: http://www.gutenberg.org/ebooks/40533
